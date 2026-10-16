@@ -1,0 +1,15 @@
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day02/bin/Debug/net10.0/Day02
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day02/bin/Debug/net10.0/Day02.deps.json
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day02/bin/Debug/net10.0/Day02.runtimeconfig.json
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day02/bin/Debug/net10.0/Day02.dll
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day02/bin/Debug/net10.0/Day02.pdb
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day02/obj/Debug/net10.0/Day02.GeneratedMSBuildEditorConfig.editorconfig
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day02/obj/Debug/net10.0/Day02.AssemblyInfoInputs.cache
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day02/obj/Debug/net10.0/Day02.AssemblyInfo.cs
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day02/obj/Debug/net10.0/Day02.csproj.CoreCompileInputs.cache
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day02/obj/Debug/net10.0/Day02.sourcelink.json
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day02/obj/Debug/net10.0/Day02.dll
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day02/obj/Debug/net10.0/refint/Day02.dll
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day02/obj/Debug/net10.0/Day02.pdb
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day02/obj/Debug/net10.0/Day02.genruntimeconfig.cache
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day02/obj/Debug/net10.0/ref/Day02.dll
