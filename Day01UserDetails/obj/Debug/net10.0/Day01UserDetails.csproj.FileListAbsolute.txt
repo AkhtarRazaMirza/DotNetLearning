@@ -1,0 +1,14 @@
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day01UserDetails/bin/Debug/net10.0/Day01UserDetails
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day01UserDetails/bin/Debug/net10.0/Day01UserDetails.deps.json
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day01UserDetails/bin/Debug/net10.0/Day01UserDetails.runtimeconfig.json
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day01UserDetails/bin/Debug/net10.0/Day01UserDetails.dll
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day01UserDetails/bin/Debug/net10.0/Day01UserDetails.pdb
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day01UserDetails/obj/Debug/net10.0/Day01UserDetails.GeneratedMSBuildEditorConfig.editorconfig
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day01UserDetails/obj/Debug/net10.0/Day01UserDetails.AssemblyInfoInputs.cache
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day01UserDetails/obj/Debug/net10.0/Day01UserDetails.AssemblyInfo.cs
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day01UserDetails/obj/Debug/net10.0/Day01UserDetails.csproj.CoreCompileInputs.cache
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day01UserDetails/obj/Debug/net10.0/Day01UserDetails.dll
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day01UserDetails/obj/Debug/net10.0/refint/Day01UserDetails.dll
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day01UserDetails/obj/Debug/net10.0/Day01UserDetails.pdb
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day01UserDetails/obj/Debug/net10.0/Day01UserDetails.genruntimeconfig.cache
+/home/akhtarraza/Documents/dotnet/DotNetLearning/Day01UserDetails/obj/Debug/net10.0/ref/Day01UserDetails.dll
