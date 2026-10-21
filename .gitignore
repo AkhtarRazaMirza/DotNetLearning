@@ -1,0 +1,55 @@
+## Build results & binaries
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.userprefs
+*.dbmdl
+*.jfm
+
+## Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+## JetBrains Rider / ReSharper
+.idea/
+*.sln.iml
+_ReSharper*/
+*.DotSettings.user
+
+## NuGet
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.assets.json
+packages/
+
+## Test & Profiling results
+TestResults/
+[Tt]est[Rr]esult*
+*.trx
+*.coverage
+*.coveragexml
+
+## Crash dumps and logs
+*.dmp
+*.dump
+*.crash
+*.log
+
+## OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
